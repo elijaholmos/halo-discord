@@ -42,6 +42,6 @@
 		"superagent": "8.1.2"
 	},
 	"devDependencies": {
-		"express": "4.18.2"
+		"express": "4.18.3"
 	}
 }
