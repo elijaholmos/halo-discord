@@ -1,6 +1,5 @@
 {
     "editor.codeActionsOnSave": {
-        // until https://github.com/microsoft/vscode/issues/35350 is resolved
-        "source.organizeImports": false
+        "source.organizeImports": "never"
     }
 }
